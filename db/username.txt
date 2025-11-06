@@ -1,0 +1,5 @@
+0|admin|admin|Admin|A-R,A,W,E*B-R,A,W,E*C-R,A,W,E*D-R,A,W,E*E-R,A,W,E
+1|manager|1234|Manager|A-R,W,E,A*B-R,A
+2|user|user|User|A-R*B-R
+
+3|NewUser|root|User|A-R
